@@ -117,7 +117,7 @@ h6 {
 }
 .hero {
   align-items: center;
-  background-image: linear-gradient(to top right, rgba(0, 0, 0, 0.5), rgba(123, 41, 121, 0.45)), url("/Responsive-Exercise/assets/hero.png");
+  background-image: linear-gradient(to top right, rgba(0, 0, 0, 0.5), rgba(123, 41, 121, 0.45)), url("./assets/hero.png");
   background-position: center;
   background-size: cover;
   display: flex;
